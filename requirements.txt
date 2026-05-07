@@ -1,0 +1,46 @@
+﻿# Core RAG
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-huggingface==0.1.2
+langchain-anthropic==0.3.10
+langchain-groq==0.2.5
+langchain-core==0.3.63
+
+# Vector store
+faiss-cpu
+
+# Embeddings — BGE (best quality, runs locally)
+sentence-transformers
+transformers
+torch
+
+# PDF parsing
+PyMuPDF==1.24.0
+pdfplumber==0.11.0
+
+# Sparse retrieval
+rank-bm25==0.2.2
+
+# Evaluation
+ragas==0.2.0
+datasets==2.21.0
+
+# API
+fastapi==0.115.0
+uvicorn==0.30.0
+pydantic>=2.9.0
+
+# UI
+streamlit==1.38.0
+
+# Utils
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.5
+
+pytest
+seaborn
+matplotlib
+umap-learn
+ipykernel
