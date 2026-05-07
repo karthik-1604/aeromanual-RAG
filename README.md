@@ -1,6 +1,6 @@
 # ✈️ AeroManual-RAG: Intelligent Aerospace Document Assistant
 
-> A production-grade **Advanced RAG pipeline** for querying FAA aerospace maintenance manuals using natural language — built with hybrid retrieval, RRF fusion, cross-encoder reranking, and query rewriting.
+> An **Advanced RAG pipeline** for querying FAA aerospace maintenance manuals using natural language — built with hybrid retrieval, RRF fusion, cross-encoder reranking, and query rewriting.
 
 ![Demo](assets/sample.png)
 
