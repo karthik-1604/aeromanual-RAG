@@ -112,7 +112,7 @@ aeromanual-rag/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Component | Tool |
 |---|---|
@@ -128,7 +128,7 @@ aeromanual-rag/
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.10
@@ -186,7 +186,7 @@ pytest tests/ -v
 
 ---
 
-## 📈 Notebooks
+## Notebooks
 
 | Notebook | Description |
 |---|---|
@@ -197,7 +197,7 @@ pytest tests/ -v
 
 ---
 
-## 🔗 Relevance to Industry
+## Relevance to Industry
 
 This project mirrors real-world GenAI implementations in the aerospace and industrial automation sector, where semantic search over technical manuals has demonstrated significant reductions in support workload and manual document analysis time. The pipeline is document-agnostic — the same architecture applies to HVAC maintenance guides, industrial equipment manuals, compliance documents, and any large-scale technical corpus.
 
