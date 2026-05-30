@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Motivation
+## Motivation
 
 Aerospace technicians spend significant time manually searching through hundreds of pages of FAA maintenance manuals. This system enables natural language querying over 2,000+ pages of technical documents, reducing manual search time and enabling faster access to critical maintenance information.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Query
@@ -45,7 +45,7 @@ BM25 Search    FAISS Search
 
 ---
 
-## 🚀 Advanced RAG Techniques
+## Advanced RAG Techniques
 
 | Technique | Implementation | Why It Matters |
 |---|---|---|
@@ -56,7 +56,7 @@ BM25 Search    FAISS Search
 
 ---
 
-## 📊 Evaluation Results (RAGAS)
+## Evaluation Results (RAGAS)
 
 | Metric | Score |
 |---|---|
@@ -68,7 +68,7 @@ Evaluated on 10 aerospace maintenance queries using RAGAS framework with Groq LL
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 **Source:** FAA Aviation Maintenance Technician Handbooks (public domain)
 
